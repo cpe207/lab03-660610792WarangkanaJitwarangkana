@@ -7,5 +7,5 @@
 
 <strong>GITHUB PAGE URL : https://cpe207.github.io/lab03-660610792WarangkanaJitwarangkana/</strong>
 
-<p น.ส.วรางคณา จิตวรางคณา></p>
-<p รหัสนักศึกษา 660610792></p>
+น.ส.วรางคณา จิตวรางคณา
+รหัสนักศึกษา 660610792
