@@ -1,0 +1,49 @@
+.centerhead {
+    font-family: Georgia, serif;
+    font-style:oblique;
+    color: #3D4633;
+    font-size: 48px;
+    text-align: center;
+    background-color: white;
+  }
+
+  .centertopic {
+    font-family: Georgia, serif;
+    font-style:oblique;
+    color: #101511;
+    font-size: 40px;
+    text-align: center;
+    border-top: 32px;
+    text-decoration: #222922 wavy underline;
+  }
+
+  .centerele {
+    font-family: Georgia, serif;
+    font-style:oblique;
+    color: #101511;
+    font-size: 24px;
+    text-align: center;
+    border-top: 32px;
+    text-shadow: rgb(255, 254, 252) 0px 0 40px;
+    background-color: whitesmoke;
+    margin-left: 460px;
+    margin-right: 460px;
+  }
+
+  .skillpart {
+    font-family: Georgia, serif;
+    font-size: 28px;
+    line-height: 16px;
+    color: #101511;
+    text-align: center;
+    border: 24px solid rgba(255, 255, 255, 0);
+    background-color: white;
+    width: 640px;
+    height: 40px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+  }
+
+  
